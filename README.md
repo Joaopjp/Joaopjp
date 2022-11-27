@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Pedro
 - 👀 I’m interested in Front-End and Data Science
 - 🌱 I’m currently learning ReacJS and Data Science
-- 📫 How to reach me [...](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-jesus-e-pinto/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-jesus-e-pinto/)
 
 <!---
 Joaopjp/Joaopjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
